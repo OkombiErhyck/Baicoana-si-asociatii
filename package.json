@@ -15,7 +15,7 @@
     "axios": "^1.13.2",
     "date-fns": "^4.1.0",
     "formik": "^2.4.6",
-    "i18next": "24.2.0",
+    "i18next": "23.11.5",
     "lodash-es": "^4.17.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "i18next": "23.11.5"
   }
 }
