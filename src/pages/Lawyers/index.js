@@ -3,7 +3,7 @@ import { Container, Typography, Grid, Card, CardContent, CardMedia, Box } from '
 
 const Lawyers = () => {
   const lawyers = [
-    {
+    { 
       name: 'Pinkerton Baicoana',
       position: 'Managing Partner',
       specialization: 'Corporate Law & Commercial Litigation',
