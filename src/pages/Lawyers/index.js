@@ -4,29 +4,18 @@ import { Container, Typography, Grid, Card, CardContent, CardMedia, Box } from '
 const Lawyers = () => {
   const lawyers = [
     {
-      name: 'Alexandru Baicoana',
+      name: 'Pinkerton Baicoana',
       position: 'Managing Partner',
       specialization: 'Corporate Law & Commercial Litigation',
       image: '/images/lawyer1.jpg',
     },
     {
-      name: 'Maria Popescu',
+      name: 'Laura Okombi',
       position: 'Senior Partner',
-      specialization: 'Real Estate & Property Law',
-      image: '/images/lawyer2.jpg',
-    },
-    {
-      name: 'Ioan Dragomir',
-      position: 'Partner',
       specialization: 'Family Law & Civil Litigation',
       image: '/images/lawyer3.jpg',
     },
-    {
-      name: 'Elena Constantinescu',
-      position: 'Senior Associate',
-      specialization: 'Intellectual Property & Technology Law',
-      image: '/images/lawyer4.jpg',
-    },
+    
   ];
 
   return (
